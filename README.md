@@ -1,10 +1,11 @@
-One-day International (ODI) Cricket Data Analysis of Bowlers
-
+**One-day International (ODI) Cricket Data Analysis of Bowlers
+**
 Author: Mahsab Al Rahman
 
 Objective: The goal of this notebook is to analyze one-day international (ODI) cricket data of different bowlers from the given dataset.
 
-Features of this dataset
+
+**Features of this dataset**
 
 Player: the name (and country name) of the player
 
